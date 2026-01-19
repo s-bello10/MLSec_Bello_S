@@ -24,7 +24,7 @@ _Select five CIFAR-10 (ℓ∞) models from RobustBench and re-evaluate them usin
   - `AutoAttack.ipynb`: code where AutoAttack was executed;
   - `analysis.ipynb`: code where plots and tables were created;
   - `clean_ranking.json`: JSON file with clean accuracies;
-  - `results_checkpoint.json`: JSON file containing the results of the experiment, for each pair "epsilon-model".
+  - `results_checkpoint.json`: JSON file containing the results of the experiment, for each pair "epsilon-model". It was deemed necessary to not lose previous computation results, as AutoAttack takes some time and it had to be run in separate sessions.
 - Environment files:
   - `environment.yaml`: YAML file of Anaconda virtual environment;
   - `requirements.txt`: TXT file containing dependencies (it might be incomplete, though, as Anaconda doesn't natively support dependecies file like PIP).
