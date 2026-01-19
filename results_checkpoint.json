@@ -1,0 +1,137 @@
+{
+  "1/255": {
+    "Carmon2019Unlabeled": {
+      "clean_acc": 0.905,
+      "robust_acc": 0.8849999904632568,
+      "rank": 3
+    },
+    "Sehwag2021Proxy_R18": {
+      "clean_acc": 0.87,
+      "robust_acc": 0.8449999690055847,
+      "rank": 4
+    },
+    "Rebuffi2021Fixing_R18_ddpm": {
+      "clean_acc": 0.855,
+      "robust_acc": 0.8349999785423279,
+      "rank": 5
+    },
+    "Wang2023Better_WRN-28-10": {
+      "clean_acc": 0.925,
+      "robust_acc": 0.9149999618530273,
+      "rank": 2
+    },
+    "Cui2023Decoupled_WRN-28-10": {
+      "clean_acc": 0.935,
+      "robust_acc": 0.9199999570846558,
+      "rank": 1
+    }
+  },
+  "4/255": {
+    "Carmon2019Unlabeled": {
+      "clean_acc": 0.905,
+      "robust_acc": 0.7749999761581421,
+      "rank": 3
+    },
+    "Sehwag2021Proxy_R18": {
+      "clean_acc": 0.87,
+      "robust_acc": 0.7249999642372131,
+      "rank": 4
+    },
+    "Rebuffi2021Fixing_R18_ddpm": {
+      "clean_acc": 0.855,
+      "robust_acc": 0.7149999737739563,
+      "rank": 5
+    },
+    "Wang2023Better_WRN-28-10": {
+      "clean_acc": 0.925,
+      "robust_acc": 0.8399999737739563,
+      "rank": 1
+    },
+    "Cui2023Decoupled_WRN-28-10": {
+      "clean_acc": 0.935,
+      "robust_acc": 0.8349999785423279,
+      "rank": 2
+    }
+  },
+  "8/255": {
+    "Carmon2019Unlabeled": {
+      "clean_acc": 0.905,
+      "robust_acc": 0.5600000023841858,
+      "rank": 3
+    },
+    "Sehwag2021Proxy_R18": {
+      "clean_acc": 0.87,
+      "robust_acc": 0.5249999761581421,
+      "rank": 5
+    },
+    "Rebuffi2021Fixing_R18_ddpm": {
+      "clean_acc": 0.855,
+      "robust_acc": 0.5600000023841858,
+      "rank": 4
+    },
+    "Wang2023Better_WRN-28-10": {
+      "clean_acc": 0.925,
+      "robust_acc": 0.699999988079071,
+      "rank": 1
+    },
+    "Cui2023Decoupled_WRN-28-10": {
+      "clean_acc": 0.935,
+      "robust_acc": 0.6949999928474426,
+      "rank": 2
+    }
+  },
+  "12/255": {
+    "Carmon2019Unlabeled": {
+      "clean_acc": 0.905,
+      "robust_acc": 0.35499998927116394,
+      "rank": 5
+    },
+    "Sehwag2021Proxy_R18": {
+      "clean_acc": 0.87,
+      "robust_acc": 0.3649999797344208,
+      "rank": 4
+    },
+    "Rebuffi2021Fixing_R18_ddpm": {
+      "clean_acc": 0.855,
+      "robust_acc": 0.38999998569488525,
+      "rank": 3
+    },
+    "Wang2023Better_WRN-28-10": {
+      "clean_acc": 0.925,
+      "robust_acc": 0.4350000023841858,
+      "rank": 1
+    },
+    "Cui2023Decoupled_WRN-28-10": {
+      "clean_acc": 0.935,
+      "robust_acc": 0.42499998211860657,
+      "rank": 2
+    }
+  },
+  "16/255": {
+    "Carmon2019Unlabeled": {
+      "clean_acc": 0.905,
+      "robust_acc": 0.1850000023841858,
+      "rank": 4
+    },
+    "Sehwag2021Proxy_R18": {
+      "clean_acc": 0.87,
+      "robust_acc": 0.1599999964237213,
+      "rank": 5
+    },
+    "Rebuffi2021Fixing_R18_ddpm": {
+      "clean_acc": 0.855,
+      "robust_acc": 0.23999999463558197,
+      "rank": 1
+    },
+    "Wang2023Better_WRN-28-10": {
+      "clean_acc": 0.925,
+      "robust_acc": 0.20999999344348907,
+      "rank": 2
+    },
+    "Cui2023Decoupled_WRN-28-10": {
+      "clean_acc": 0.935,
+      "robust_acc": 0.20999999344348907,
+      "rank": 3
+    }
+  }
+}

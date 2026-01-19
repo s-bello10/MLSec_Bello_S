@@ -1,0 +1,19 @@
+{
+  "1/255": {
+    "Carmon2019Unlabeled": {
+      "rank": 3
+    },
+    "Sehwag2021Proxy_R18": {
+      "rank": 2
+    },
+    "Rebuffi2021Fixing_R18_ddpm": {
+      "rank": 4
+    },
+    "Wang2023Better_WRN-28-10": {
+      "rank": 1
+    },
+    "Cui2023Decoupled_WRN-28-10": {
+      "rank": 5
+    }
+  }
+}
